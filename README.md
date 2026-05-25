@@ -64,8 +64,6 @@ where $P_n(x)$ are Legendre polynomials and $\mathbf{a}$ contains the expansion 
 
 To study the equilibrium structure of the EBM, pseudo-arclength continuation is applied in the greenhouse forcing parameter $\mu$, ranging from $0$ to $100$. This allows the computation of equilibrium branches and bifurcation diagrams, including unstable solution branches.
 
-Throughout the experiments, we use $N=10$.
-
 The resulting bifurcation diagram is analyzed together with the extent of ice coverage on the planet.
 
 ## Implemented Methods
