@@ -74,7 +74,6 @@ The resulting bifurcation diagram is analyzed together with the extent of ice co
 - Jacobian construction
 - Pseudo-arclength continuation
 - Linear stability analysis
-- Bifurcation tracking
 
 ## Results
 
